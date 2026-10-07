@@ -1,14 +1,25 @@
-# smoke_test.py
-import anthropic
+import os
+
 from dotenv import load_dotenv
+from google import genai
+
 load_dotenv()
 
-client = anthropic.Anthropic()
-message = client.messages.create(
-    model="claude-sonnet-4-6",
-    max_tokens=50,
-    messages=[{"role": "user", "content": "Say hello in one sentence."}]
+api_key = os.getenv("GEMINI_API_KEY")
+model = os.getenv("GEMINI_MODEL", "gemini-3.6-flash")
+
+if not api_key:
+    raise RuntimeError("GEMINI_API_KEY was not found in .env")
+
+client = genai.Client(api_key=api_key)
+
+response = client.models.generate_content(
+    model=model,
+    contents="Say hello in one sentence.",
 )
-print(message.content[0].text)
-print(f"Input tokens: {message.usage.input_tokens}")
-print(f"Output tokens: {message.usage.output_tokens}")
+
+print(response.text)
+
+usage = response.usage_metadata
+print(f"Input tokens: {usage.prompt_token_count}")
+print(f"Output tokens: {usage.candidates_token_count}")
