@@ -1,0 +1,29 @@
+MERIDIAN ANALYTICS LTD - REFUND AND RETURNS POLICY
+Version 3.2, effective 1 January 2026. Owner: Customer Success Department.
+
+1. PURPOSE
+This policy explains when and how customers of Meridian Analytics can obtain a refund for subscriptions, add-on modules, and professional services. It applies to all customers worldwide unless a signed contract states otherwise.
+
+2. SUBSCRIPTION REFUNDS
+Customers on a monthly plan may cancel at any time. Cancellation takes effect at the end of the current billing month, and no partial-month refund is issued. Customers on an annual plan may request a full refund within 30 days of the initial purchase date. After 30 days, annual plans are refunded on a pro-rata basis only if the cancellation is caused by a verified service failure, such as more than 72 cumulative hours of unplanned downtime within a single quarter.
+
+3. ADD-ON MODULES
+Add-on modules such as Advanced Forecasting and Custom Dashboards can be refunded within 14 days of activation, provided the customer has generated fewer than 50 reports using the module. Modules that have been used beyond this threshold are not eligible for a refund but can be deactivated at the next renewal date.
+
+4. PROFESSIONAL SERVICES
+Fees for consulting, onboarding, and data migration are non-refundable once work has started. If a customer cancels before work begins, a 90 percent refund is issued, and the remaining 10 percent covers administrative costs. If Meridian fails to deliver agreed work, the customer is entitled to either a corrective redo at no charge or a refund of the undelivered portion.
+
+5. HOW TO REQUEST A REFUND
+Refund requests must be submitted through the customer portal under Billing, then Refund Request, or by emailing billing@meridian-analytics.example. Each request must include the account ID, the invoice number, and a short reason. Requests received without an invoice number will be returned for completion.
+
+6. APPROVAL PROCESS
+Refunds under 1,000 USD are approved by a Customer Success Specialist within 3 business days. Refunds between 1,000 USD and 10,000 USD require approval from the Customer Success Manager and take up to 7 business days. Refunds above 10,000 USD require sign-off from the Finance Director and may take up to 15 business days.
+
+7. PAYMENT OF APPROVED REFUNDS
+Approved refunds are returned to the original payment method. Credit card refunds typically appear within 5 to 10 business days. Bank transfer refunds take up to 14 business days. Refunds are issued in the currency of the original invoice, and Meridian does not cover exchange-rate differences.
+
+8. EXCLUSIONS
+No refunds are given for the following: custom-built integrations that have been delivered and accepted, training sessions already attended, or accounts terminated for breach of the Terms of Service. Free trial accounts are not charged and therefore have nothing to refund.
+
+9. DISPUTES
+If a customer disagrees with a refund decision, they may request a review within 30 days. The review is carried out by the Head of Customer Success, whose decision is final.

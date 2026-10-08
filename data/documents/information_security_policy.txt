@@ -1,0 +1,29 @@
+MERIDIAN ANALYTICS LTD - INFORMATION SECURITY POLICY
+Version 4.0, effective 1 April 2026. Owner: Chief Information Security Officer (CISO).
+
+1. PURPOSE
+This policy protects the confidentiality, integrity, and availability of company and customer information. It applies to all employees, contractors, and third parties who access Meridian systems or data.
+
+2. DATA CLASSIFICATION
+All data is classified into four levels. Public data can be shared freely. Internal data is for employees only. Confidential data includes customer datasets, financial results, and contracts, and may only be accessed by people who need it for their work. Restricted data includes encryption keys, credentials, and personal data of employees, and has the tightest controls. When in doubt, treat data as Confidential.
+
+3. PASSWORDS AND AUTHENTICATION
+Passwords must be at least 14 characters long and must not be reused across systems. Employees must use the company password manager. Multi-factor authentication is mandatory for email, the VPN, code repositories, and the cloud console. Passwords must be changed immediately if a compromise is suspected, and are otherwise rotated once every 12 months.
+
+4. DEVICES
+All work devices must have disk encryption enabled, automatic screen lock after 5 minutes of inactivity, and approved endpoint protection software installed. Personal devices may access email and chat only through the managed mobile app and must not store customer data. Lost or stolen devices must be reported to the Security Team within 2 hours of discovery.
+
+5. ACCESS CONTROL
+Access follows the principle of least privilege. Access requests are submitted through the IT service desk and approved by the data owner. Managers review team access every 6 months. When an employee leaves, all access is removed on their last working day.
+
+6. INCIDENT REPORTING
+Any suspected security incident, including phishing emails, malware, or unauthorised access, must be reported to security@meridian-analytics.example immediately. The Security Team classifies incidents as Low, Medium, High, or Critical. Critical incidents trigger a response within 30 minutes, and affected customers are notified within 72 hours where personal data has been exposed.
+
+7. USING AI TOOLS
+Employees may use only company-approved AI tools. Confidential and Restricted data must never be entered into unapproved external AI services. AI-generated output used in customer work must be reviewed by a qualified employee before it is shared.
+
+8. DATA RETENTION
+Customer data is retained for the duration of the contract plus 90 days, after which it is securely deleted. Financial records are kept for 7 years. System logs are kept for 12 months.
+
+9. TRAINING AND COMPLIANCE
+All employees complete security awareness training within 30 days of joining and again every year. Simulated phishing tests are run quarterly. Repeated failures lead to additional coaching. Serious violations of this policy may result in disciplinary action.

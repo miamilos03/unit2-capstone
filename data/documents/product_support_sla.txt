@@ -1,0 +1,29 @@
+MERIDIAN ANALYTICS LTD - PRODUCT SUPPORT AND SERVICE LEVEL AGREEMENT
+Version 5.1, effective 1 February 2026. Owner: Customer Success Department.
+
+1. INTRODUCTION
+This document describes the support Meridian Analytics provides for its analytics platform and the service levels customers can expect. Support tiers are Standard, Premium, and Enterprise, and the tier is shown on the customer's order form.
+
+2. SUPPORT CHANNELS AND HOURS
+Standard support is available by email and the customer portal from 08:00 to 18:00 Monday to Friday, in the customer's regional time zone. Premium support adds live chat and phone support during the same hours. Enterprise support is available 24 hours a day, 7 days a week, for Severity 1 issues, and includes a named Technical Account Manager.
+
+3. SEVERITY LEVELS
+Severity 1 means the platform is completely unavailable or there is a risk of data loss, with no workaround. Severity 2 means a major feature is not working or performance is seriously degraded. Severity 3 means a minor feature is affected and a workaround exists. Severity 4 covers general questions and feature requests.
+
+4. FIRST RESPONSE TARGETS
+For Standard customers, the first response targets are 4 business hours for Severity 1, 8 business hours for Severity 2, 2 business days for Severity 3, and 5 business days for Severity 4. For Premium customers, the targets are 1 hour, 4 business hours, 1 business day, and 3 business days. For Enterprise customers, the targets are 15 minutes, 1 hour, 4 business hours, and 2 business days.
+
+5. UPTIME COMMITMENT
+Meridian commits to a monthly uptime of 99.5 percent for Standard, 99.9 percent for Premium, and 99.95 percent for Enterprise. Uptime is measured at the application gateway and excludes planned maintenance. Planned maintenance is announced at least 5 days in advance and takes place on Sundays between 01:00 and 05:00 UTC.
+
+6. SERVICE CREDITS
+If monthly uptime falls below the committed level, the customer is entitled to a service credit applied to the next invoice. Uptime below the commitment but at or above 99.0 percent earns a credit of 5 percent of the monthly fee. Uptime below 99.0 percent but at or above 95.0 percent earns 15 percent. Uptime below 95.0 percent earns 30 percent. Credits must be requested within 30 days of the end of the affected month and cannot exceed 30 percent of the monthly fee.
+
+7. ESCALATION
+If a customer is not satisfied with progress on a ticket, they can request escalation through the portal. Severity 1 tickets are escalated automatically to the Support Manager after 2 hours without resolution. Unresolved issues after 24 hours are escalated to the VP of Engineering.
+
+8. BACKUP AND RECOVERY
+Customer data is backed up every 6 hours and stored in two geographic regions. The recovery point objective is 6 hours, and the recovery time objective is 4 hours for Enterprise customers and 12 hours for other tiers.
+
+9. EXCLUSIONS
+The SLA does not apply to outages caused by customer systems, third-party services outside Meridian's control, force majeure events, or beta features marked as such in the product.
