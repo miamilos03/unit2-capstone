@@ -6,7 +6,7 @@ from pathlib import Path
 from dotenv import load_dotenv
 from google import genai
 
-import qualitative, quantitative
+from agents import qualitative, quantitative
 from tokenomics.logger import log
 from validation.validator import (
     validate_qualitative,
