@@ -1,2 +1,5 @@
 {"timestamp": "2026-10-08T15:17:15.638097-04:00", "query": "Show me monthly revenue trends", "agent": "quantitative", "input_tokens": 100, "output_tokens": 50, "cost_usd": 0.000263, "cost_per_1m_queries": 262.5}
 {"timestamp": "2026-10-08T15:54:04.670597-04:00", "query": "Show me monthly revenue trends", "agent": "quantitative", "input_tokens": 100, "output_tokens": 50, "cost_usd": 0.000263, "cost_per_1m_queries": 262.5}
+{"timestamp": "2026-10-08T16:01:34.531241-04:00", "query": "Show me monthly revenue trends", "agent": "quantitative", "input_tokens": 100, "output_tokens": 50, "cost_usd": 0.000263, "cost_per_1m_queries": 262.5}
+{"timestamp": "2026-10-08T16:37:57.460439-04:00", "query": "Compare Q4 performance across regions", "agent": "manager-classifier", "input_tokens": 102, "output_tokens": 1, "cost_usd": 8e-05, "cost_per_1m_queries": 80.25}
+{"timestamp": "2026-10-08T16:37:59.850988-04:00", "query": "Compare Q4 performance across regions", "agent": "quantitative", "input_tokens": 0, "output_tokens": 0, "cost_usd": 0.0, "cost_per_1m_queries": 0.0}
