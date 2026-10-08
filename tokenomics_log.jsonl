@@ -1,0 +1,2 @@
+{"timestamp": "2026-10-08T15:17:15.638097-04:00", "query": "Show me monthly revenue trends", "agent": "quantitative", "input_tokens": 100, "output_tokens": 50, "cost_usd": 0.000263, "cost_per_1m_queries": 262.5}
+{"timestamp": "2026-10-08T15:54:04.670597-04:00", "query": "Show me monthly revenue trends", "agent": "quantitative", "input_tokens": 100, "output_tokens": 50, "cost_usd": 0.000263, "cost_per_1m_queries": 262.5}
