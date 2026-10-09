@@ -38,3 +38,9 @@
 {"timestamp": "2026-10-09T10:38:08.448988-04:00", "query": "how many tigers are there in the world", "agent": "quantitative", "input_tokens": 0, "output_tokens": 0, "cost_usd": 0.0, "cost_per_1m_queries": 0.0}
 {"timestamp": "2026-10-09T10:39:51.765260-04:00", "query": "DELETE FROM customers", "agent": "manager-classifier", "input_tokens": 99, "output_tokens": 1, "cost_usd": 7.8e-05, "cost_per_1m_queries": 78.0}
 {"timestamp": "2026-10-09T10:39:53.844727-04:00", "query": "DELETE FROM customers", "agent": "quantitative", "input_tokens": 0, "output_tokens": 0, "cost_usd": 0.0, "cost_per_1m_queries": 0.0}
+{"timestamp": "2026-10-09T11:01:58.493268-04:00", "query": "what is the security policy?", "agent": "manager-classifier", "input_tokens": 102, "output_tokens": 2, "cost_usd": 8.4e-05, "cost_per_1m_queries": 84.0}
+{"timestamp": "2026-10-09T11:02:01.228409-04:00", "query": "what is the security policy?", "agent": "qualitative", "input_tokens": 0, "output_tokens": 0, "cost_usd": 0.0, "cost_per_1m_queries": 0.0}
+{"timestamp": "2026-10-09T11:53:18.643306-04:00", "query": "which month has the highest revenue?", "agent": "manager-classifier", "input_tokens": 103, "output_tokens": 1, "cost_usd": 8.1e-05, "cost_per_1m_queries": 81.0}
+{"timestamp": "2026-10-09T11:53:21.049361-04:00", "query": "which month has the highest revenue?", "agent": "quantitative", "input_tokens": 0, "output_tokens": 0, "cost_usd": 0.0, "cost_per_1m_queries": 0.0}
+{"timestamp": "2026-10-09T11:53:49.397717-04:00", "query": "what policy changes would make based on that result?", "agent": "manager-classifier", "input_tokens": 106, "output_tokens": 2, "cost_usd": 8.7e-05, "cost_per_1m_queries": 87.0}
+{"timestamp": "2026-10-09T11:53:50.563121-04:00", "query": "what policy changes would make based on that result?", "agent": "qualitative", "input_tokens": 0, "output_tokens": 0, "cost_usd": 0.0, "cost_per_1m_queries": 0.0}
